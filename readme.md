@@ -21,25 +21,20 @@ Hey 👋,I am an engineering student and a software developer with experience in
 **About Me 🧑**
 
 - 🤠 He/Him
-- 📕 Currently, I am studying Electronics and Computer engineering.
-- 💻 I am Web developer with a passion for learning new technologies and solving problems.
+- 📕 Currently, I am studying Computer Engineering.
+- 💻 I am an Android Developer with a passion for learning new technologies and solving problems.
 - 🌐 I am a huge fan of the open source ecosystem and I love contributing to open source projects.
-- 🚀 I have made some cool projects including an International Space station tracker. :artificial_satellite: and a Discord Bot 🤖
-- 🌠 Working on my portfolio website.
-- 🧑‍💻 Learning Blockchain developement and using solidity to create smart contracts.
 - 📚 Always trying to learn new technologies and frameworks and programming paradigms.
 
 * :handshake: I'm looking to collaborate with other developers and designers to create front-end and back-end applications.
 
 **Skills ⛰️**
 
-- 💻 Node.js **(Express.js)**
-- Javascript
-- React.js
-- MongoDB
-- Tailwind CSS & Bootstrap
-- 📝 HTML & CSS
-- Solidity
+- 💻 Android Development    
+- Java  
+- Python    
+- C++
+- C
 </div>
 
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">

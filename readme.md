@@ -4,7 +4,7 @@
 <body>
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;width:100%;align-items:center;">
 <!-- Enter ur linkedin profile -->
-<a href="" style="margin:20px">
+<a href="https://www.linkedin.com/in/pranav-powar-326a17226/" style="margin:20px">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/pranav2811" style="margin:20px"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />

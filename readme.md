@@ -16,7 +16,7 @@
 </div>
 
 <div style="margin-top:50px">
-Hey 👋,I am an engineering student and a software developer with experience in Node.js.
+Hey 👋,I am an engineering student and a software developer with experience in Android Development (Java and Flutter).
 
 **About Me 🧑**
 

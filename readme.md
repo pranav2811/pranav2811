@@ -11,7 +11,7 @@
 </a>
 <a href="" style="margin:20px"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="mailto:utripathi2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:powar.pranav29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a><img style="margin-top:20px;margin-left:20px" align="center" src="https://komarev.com/ghpvc/?username=pranav2811&style=plastic&color=ffafbd"/></a>
 </div>
 

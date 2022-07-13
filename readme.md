@@ -35,6 +35,7 @@ Hey 👋,I am an engineering student and a software developer with experience in
 - Python    
 - C++
 - C
+-Flutter/Dart
 </div>
 
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">

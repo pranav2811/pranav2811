@@ -22,7 +22,7 @@ Hey 👋,I am an engineering student and a software developer with experience in
 
 - 🤠 He/Him
 - 📕 Currently, I am studying Computer Engineering.
-- 💻 I am an Android Developer with a passion for learning new technologies and solving problems.
+- 💻 App developer 
 - 🌐 I am a huge fan of the open source ecosystem and I love contributing to open source projects.
 - 📚 Always trying to learn new technologies and frameworks and programming paradigms.
 

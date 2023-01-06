@@ -65,7 +65,7 @@ Hey 👋,I am an engineering student and a software developer with experience in
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranav2811&theme=yellowdark)
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav2811&show_icons=true&theme=yellowdark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav2811&show_icons=true&theme=highcontrast)
 
 </body>
 </html>

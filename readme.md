@@ -59,7 +59,8 @@ Hey 👋,I am an engineering student and a software developer with experience in
 </div>
 <hr/>
 
-<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api?username=pranav2811&count_private=true&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/>
+<!--img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api?username=pranav2811&count_private=true&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/-->
+(https://github-readme-stats.vercel.app/api?username=pranav2811&count_private=true&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav2811&theme=highcontrast)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranav2811&theme=yellowdark)

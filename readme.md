@@ -63,6 +63,7 @@ Hey 👋,I am an engineering student and a software developer with experience in
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav2811&layout=compact&bg_color=80,c9ffbf,ffafbd&text_color=886f6f&title_color=313552"/>
 
 <!--<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=pranav2811&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&v=2"/>-->
+<img style = margin-bottom:20px;display:flex;flex:1" src = "[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranav2811&theme=yellowdark)](https://git.io/streak-stats)"/>
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://activity-graph.herokuapp.com/graph?username=pranav2811&theme=xcode&hide_title=true&area=true"/>
 </body>
 </html>
